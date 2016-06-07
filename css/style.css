@@ -1,0 +1,16 @@
+
+div{
+    
+    float: left;
+    
+}
+
+
+
+div div{
+    
+    margin:  3px;
+    width: 250px;
+    height: 200px;
+    background-color: black;
+}
